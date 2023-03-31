@@ -7,7 +7,7 @@ app = express();
 const PORT = process.env.PORT || 7000
 
 
-mongoose.connect("mongodb+srv:// tempuser:123@cluster0.f9d6o.gcp.mongodb.net/Exam")
+mongoose.connect("mongodb+srv://reza:a19941994m@mongo.yt6yw4d.mongodb.net/Exam")
 
 
 const QuizSchema = new mongoose.Schema({
